@@ -102,6 +102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 5
   timeInvincible: 2
+  projectilePrefab: {fileID: 5266521781984477949, guid: 9e60211b916667e4facedae827211490,
+    type: 3}
   speed: 13
 --- !u!50 &5958137989475400974
 Rigidbody2D:
